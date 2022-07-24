@@ -1,0 +1,19 @@
+.same1 {
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.unique {
+    color: blue;
+    font-size: 36px;
+}
+
+.extra {
+    font-size: 24px;
+}
+
+.single {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;   
+}
